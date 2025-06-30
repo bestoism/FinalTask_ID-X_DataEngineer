@@ -168,4 +168,4 @@ GO
 *   **Teknologi:** `SQL Server (T-SQL)`, `SSMS`, `Talend Open Studio`.
 
 ---
-*Dibuat oleh [Nama Anda]*
+*Dibuat oleh Ryan Besto Saragih*
