@@ -12,9 +12,6 @@ This repository contains the complete solution, which transforms raw data from v
 
 The solution follows a classic ETL (Extract, Transform, Load) architecture, designed to create a robust and scalable single source of truth.
 
-![Architecture Diagram](https://via.placeholder.com/800x250.png?text=Your+Architecture+Diagram+Here)
-*(**Note:** Replace the placeholder link above with a screenshot of your architecture diagram.)*
-
 **The data flows through four key stages:**
 1.  **Data Sources:** Raw data is ingested from three different types of systems:
     - Relational Database (SQL Server)
